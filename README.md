@@ -1,4 +1,4 @@
-# ndarray-stats
+# ndarray-stats: a fork that builds on ndarray 0.15.1
 
 [![Build status](https://travis-ci.org/rust-ndarray/ndarray-stats.svg?branch=master)](https://travis-ci.org/rust-ndarray/ndarray-stats)
 [![Coverage](https://codecov.io/gh/rust-ndarray/ndarray-stats/branch/master/graph/badge.svg)](https://codecov.io/gh/rust-ndarray/ndarray-stats)
